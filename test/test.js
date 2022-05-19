@@ -1,4 +1,4 @@
-const app = require("./eloa.js");
+const app = require("../lib/eloa.js");
 
 
 var test = app.onServer({
