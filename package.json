@@ -1,5 +1,5 @@
 {
-  "name": "@eloajs/eloa",
+  "name": "@eloajs/core",
   "version": "1.0.0",
   "description": "A Framework Node.js server-side to JavaScript & TypeScript",
   "keywords": [
@@ -12,9 +12,9 @@
   "authors": [
     "@ahsouza Aníbal Henrique De Souza <anibal.souza@eloajs.org"
   ],
-  "homepage": "https://github.com/eloajs/eloa#readme",
+  "homepage": "https://github.com/eloajs/core#readme",
   "bugs": {
-    "url": "https://github.com/eloajs/eloa/issues",
+    "url": "https://github.com/eloajs/core/issues",
     "email": "support@eloajs.org"
   },
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eloajs/eloa.git"
+    "url": "https://github.com/eloajs/core.git"
   },
   "license": "MIT",
   "private": false,
