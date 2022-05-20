@@ -3,9 +3,7 @@
   Framework JS server-side
       
       GitHub: https://github.com/eloajs
-      E-Mail: support@eloajs.com.br
-
-      Author: Aníbal Henrique Souza
+      E-Mail: support@eloajs.com
           
           Copyright © Eloa.js 2022 
 ------------------------------------------------
